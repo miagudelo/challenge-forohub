@@ -4,7 +4,7 @@ Esta aplicacion corresponde al desarrollo del Challenge 3 de la especializacion 
 
 ## Comenzando 🚀
 
-Para obtener una copia del proyecto y probarlo, debes hacer clic en enlace del repositorio: https://github.com/miagudelo/challenge-forohubONEG6  - luego debes hacer clic en el boton verde de la parte superior derecha que dice "<> Code", luego haz clic en la ultima opcion "Download Zip" para descargar los archivos, despues los debes descomprimir y abrir el proyecto desde el IDE Intellig para luego ejecutarlo desde la clase llamada ForohubApplication.
+Para obtener una copia del proyecto y probarlo, debes hacer clic en enlace del repositorio: https://github.com/miagudelo/challenge-forohub  - luego debes hacer clic en el boton verde de la parte superior derecha que dice "<> Code", luego haz clic en la ultima opcion "Download Zip" para descargar los archivos, despues los debes descomprimir y abrir el proyecto desde el IDE Intellig para luego ejecutarlo desde la clase llamada ForohubApplication.
 
 ### Pre-requisitos 📋
 
@@ -30,10 +30,10 @@ Para obtener una copia del proyecto y probarlo, debes hacer clic en enlace del r
 ![forohub](https://i.postimg.cc/y627JLfn/obtener-listado-topicos.png)
 
 ### Obtener Información de un tópico por su Id usando Swagger
-![forohub](https://i.postimg.cc/XYC3cdP3/obtener-topicopor-id.png)
+![forohub](https://i.postimg.cc/htM5JS2w/registro-topicoid.png)
 
 ### Actualizar un tópico usando Swagger
-![forohub](https://i.postimg.cc/rmLPXtg1/Actualizar-topico.png)
+![forohub](https://i.postimg.cc/X7sXNzR8/actualizar-topico.png)
 
 ### Eliminar un tópico usando Swagger
 ![forohub](https://i.postimg.cc/tRB2Df0t/eliminar-topico.png)
